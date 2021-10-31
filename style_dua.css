@@ -1,0 +1,24 @@
+body{
+    margin-top: 50px;
+    padding: 0;
+    text-align: center;
+    background-color: #191919;
+    color: white;
+}
+
+a{
+    margin-top: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    border: 0;
+    background: rgb(216, 24, 24);
+    outline: none;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 24px;
+    transition: .25s;
+    cursor: pointer;
+}
